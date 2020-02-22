@@ -1,0 +1,3 @@
+# IoT_Simulations_Using_Cisco_Packet_Tracer
+This project work was aiming to deliver practical IoT simulations using the Cisco Packet Tracer tool to support the Internet of Things. The work was conducted as a project where requirements of a system were first gathered, then simulations were developed using Cisco Packet Tracer.
+Smart-Home cases simulate a domotic experience where IoT smart devices are connected to a local network in order to give automation within the house. Examples of home automations include climate control, alarm and security events, electricity storing and intelligent lights.
